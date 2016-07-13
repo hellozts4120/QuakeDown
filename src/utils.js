@@ -7,7 +7,7 @@ export function callback(fn) {
 	let hasCallback = false;
 	return function(...args) {
 		if (hasCallback) {
-			console.log("callback twice!");
+			console.log("callback again!");
 		} else {
 			hasCallback = true;
 			console.log("callback!");
