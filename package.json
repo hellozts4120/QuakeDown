@@ -17,6 +17,7 @@
     "babel-core": "^6.10.4",
     "babel-preset-es2015-node4": "^2.1.0",
     "babel-preset-stage-0": "^6.5.0",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^0.5.1",
+    "request": "^2.73.0"
   }
 }
